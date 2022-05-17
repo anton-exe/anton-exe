@@ -10,3 +10,5 @@ I have *very* basic knowlege of:
 * Python
 * C++
 * C#
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anton-exe)](https://github.com/ryo-ma/github-profile-trophy)
