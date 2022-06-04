@@ -12,3 +12,5 @@ I have *very* basic knowlege of:
 * C#
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anton-exe)](https://github.com/ryo-ma/github-profile-trophy)
+
+### [Other Social Links](https://anton-exe.github.io/sociallinks.html)
