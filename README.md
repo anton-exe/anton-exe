@@ -8,9 +8,9 @@ My favourite subject in school right now is maths.
 
 I have *very* basic knowlege of:
 * Python
-* C++
-* C#
+* GDScript
+* Bash
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anton-exe)](https://github.com/ryo-ma/github-profile-trophy)
 
-### [Other Social Links](https://anton-exe.github.io/sociallinks.html)
+### [Other Social Links](https://anton-exe.eu/sociallinks.html)
